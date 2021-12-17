@@ -1,0 +1,22 @@
+body {
+  background-color: #c5d9ed;
+}
+hr {
+  width : 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color:lightgray
+}
+h1 {
+  color: dimgray;
+}
+
+.Arpit {
+  border-radius: 100%;
+}
+
+img:hover {
+  background-color: black;
+}
+
